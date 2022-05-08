@@ -1,0 +1,15 @@
+/home/jorge/Área de Trabalho/dados em csharp/bin/Debug/net6.0/dados em csharp
+/home/jorge/Área de Trabalho/dados em csharp/bin/Debug/net6.0/dados em csharp.deps.json
+/home/jorge/Área de Trabalho/dados em csharp/bin/Debug/net6.0/dados em csharp.runtimeconfig.json
+/home/jorge/Área de Trabalho/dados em csharp/bin/Debug/net6.0/dados em csharp.dll
+/home/jorge/Área de Trabalho/dados em csharp/bin/Debug/net6.0/dados em csharp.pdb
+/home/jorge/Área de Trabalho/dados em csharp/obj/Debug/net6.0/dados em csharp.csproj.AssemblyReference.cache
+/home/jorge/Área de Trabalho/dados em csharp/obj/Debug/net6.0/dados em csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Área de Trabalho/dados em csharp/obj/Debug/net6.0/dados em csharp.AssemblyInfoInputs.cache
+/home/jorge/Área de Trabalho/dados em csharp/obj/Debug/net6.0/dados em csharp.AssemblyInfo.cs
+/home/jorge/Área de Trabalho/dados em csharp/obj/Debug/net6.0/dados em csharp.csproj.CoreCompileInputs.cache
+/home/jorge/Área de Trabalho/dados em csharp/obj/Debug/net6.0/dados em csharp.dll
+/home/jorge/Área de Trabalho/dados em csharp/obj/Debug/net6.0/refint/dados em csharp.dll
+/home/jorge/Área de Trabalho/dados em csharp/obj/Debug/net6.0/dados em csharp.pdb
+/home/jorge/Área de Trabalho/dados em csharp/obj/Debug/net6.0/dados em csharp.genruntimeconfig.cache
+/home/jorge/Área de Trabalho/dados em csharp/obj/Debug/net6.0/ref/dados em csharp.dll
